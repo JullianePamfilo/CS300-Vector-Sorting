@@ -1,0 +1,15 @@
+# Ignore compiled files
+*.o
+*.exe
+*.out
+
+# MacOS
+.DS_Store
+
+# VS Code
+.vscode/
+
+# Backup files
+*~
+*.bak
+*.tmp
